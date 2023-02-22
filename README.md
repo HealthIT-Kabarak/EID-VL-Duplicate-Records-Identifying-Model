@@ -2,10 +2,10 @@
 To develop a classification model that identifies potentially duplicated records and related patterns from the EID / VL system.
 
 ## 1.1: Devs Name:
-1. Fredrick kilonzo
-2. Deborah Kyalo
-3. Wesley Okemwa
-Okemwa
+      1. Fredrick kilonzo - kilonzokioko10@gmail.com
+      2. Deborah Kyalo - debbzkan@gmail.com
+      3. Wesley Okemwa - okemwawes@gmail.com
+
 ## 1.1: Problem statement
 
 Some persons receiving HIV EID / VL services have been noted to visit different facilities using different names, ID’s and aliases. There is therefore need to identify such duplicated records and the related patterns in order to stem the practice.
