@@ -18,7 +18,11 @@ To develop a classification model that identifies potentially duplicated records
     https://github.com/HealthIT-Kabarak/EID-VL-Duplicate-Records-Identifying-Model.git
     
   ### 1.3.1: Installation of miniconda3 to local machine
+  #### 1.3.1.1: For windows:
     https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+    
+  #### 1.3.1.1: For linux:
+    bash Miniconda3-latest-Linux-x86_64.sh
     
   ### Installing of necessary libraries
      conda install required libraries 
